@@ -1,38 +1,70 @@
-## 旭川機場（AKJ）⇄ 富良野：交通詳情
+# 2026 北海道滑雪行程（旭川進 → 富良野 → 札幌/小樽/余市 → 新千歲出）
 
-###  巴士方式（Furano Bus）
-- **單程時間**：約 **1 小時 1 分鐘**  
-- **票價**：約 **¥600–850**  
-- **頻率**：每 **4 小時一班**，每日運行  [oai_citation:0‡Rome2Rio](https://www.rome2rio.com/s/Asahikawa-Airport/Furano?utm_source=chatgpt.com)  
-- **上車地點**：旭川機場巴士站，在出口附近即可找到  [oai_citation:1‡hokkaido-airports.com](https://www.hokkaido-airports.com/en/asahikawa/access/bus/?utm_source=chatgpt.com)  
-- **備註**：拉文德巴士（Lavender Bus）在富良野市區也非常方便，無需訂位，票可現場購買  [oai_citation:2‡ふらの観光協会公式サイト FURANO index](https://www.furanotourism.com/en/spot/news_D.php?id=2023&utm_source=chatgpt.com)  
+## 📅 行程總覽
 
-###  預約滑雪專車（Access Network）
-- **單程時間**：約 **1 小時**  
-- **票價**：約 **¥3,500**（需預約）  
-- **服務期間**：每年開放時間不同，2024–25 冬季為 12/1–3/30，2025–26 預計於 10 月公告  [oai_citation:3‡Rome2Rio](https://www.rome2rio.com/s/Asahikawa-Airport/Furano?utm_source=chatgpt.com)  
-
-###  JR 富良野線（旭川站 → 富良野站）
-- **車程**：約 **1 小時 25 分鐘**  
-- **票價**：約 **¥1,100–1,600**  
-- **班次**：每 **2 小時一班**，每日運行  [oai_citation:4‡sapporostation.com](https://www.sapporostation.com/limited-express-lilac-kamui-sapporo-asahikawa/?utm_source=chatgpt.com) [oai_citation:5‡ふらの観光協会公式サイト FURANO index](https://www.furanotourism.com/en/spot/news_D.php?id=2023&utm_source=chatgpt.com)  
-- **備註**：換乘需要先搭巴士或計程車至旭川站（約 40 分鐘，¥2,500），車站有「Midori no Madoguchi」服務櫃台購票  [oai_citation:6‡en.wikipedia.org](https://en.wikipedia.org/wiki/Furano_Station?utm_source=chatgpt.com)  
+| 日期 | 星期 | 行程內容 | 住宿 |
+|------|------|----------|------|
+| 3/28 | 六 | 台北 → 旭川（Tigerair）<br>巴士/JR → 富良野 | 富良野 |
+| 3/29 | 日 | 富良野滑雪 Day 1 | 富良野 |
+| 3/30 | 一 | 富良野滑雪 Day 2 | 富良野 |
+| 3/31 | 二 | 富良野滑雪 Day 3 | 富良野 |
+| 4/1  | 三 | 富良野滑雪 Day 4<br>午後 JR → 札幌 | 札幌 |
+| 4/2  | 四 | 札幌市區觀光<br>晚餐：湯咖哩 GARAKU | 札幌 |
+| 4/3  | 五 | 余市 Nikka 蒸餾所 + 小樽運河散策<br>晚餐：炭火兜 成吉思汗 | 札幌 |
+| 4/4  | 六 | 札幌慢遊（圓山公園、北海道神宮、藻岩山夜景） | 札幌 |
+| 4/5  | 日 | 札幌 → 新千歲 → 台北 | - |
 
 ---
 
-## JR 富良野 → 札幌：直達火車資訊
-- **旅程時間**：約 **1 小時 58 分鐘**（直達）  
-- **票價**：約 **¥4,600（約 USD 36.6）**  
-- **列車資訊**：可使用 Trip.com 查票與時段，為直通特急列車  [oai_citation:7‡Trip.com](https://us.trip.com/trains/japan/route/furano-to-sapporo-hokkaido/?utm_source=chatgpt.com)  
+## 🚍 交通資訊
+
+| 起訖區段 | 方式 | 時間 | 費用 | 備註 |
+|----------|------|------|------|------|
+| 旭川機場 → 富良野 | 巴士 (Furano Bus) | 約 1h | ¥600–850 | 每 4h 一班，機場直達 |
+| 旭川機場 → 富良野 | 預約專車 | 約 1h | 約 ¥3,500 | 冬季限定，需預約 |
+| 旭川站 → 富良野站 | JR 富良野線 | 約 1h25m | ¥1,100–1,600 | 每 2h 一班 |
+| 富良野 → 札幌 | JR 特急 | 約 2h–3h | 約 ¥4,600 | 旭川轉乘，部分直達 |
+| 札幌 → 小樽 | JR 快速 | 約 35m | ¥750 | 約每 30 分一班 |
+| 小樽 → 余市 | JR 普通 | 約 25m | ¥360 | 約每 60 分一班 |
+| 札幌 → 新千歲 | JR 快速エアポート | 約 40m | ¥1,150 | 每 15–20 分一班 |
 
 ---
 
-##  整合交通表格（GitHub Pages 用）
+## 🎿 富良野滑雪
 
-```markdown
-| 起訖區段                 | 方式          | 時間       | 費用（單程）   | 頻率／備註                             |
-|--------------------------|---------------|------------|----------------|----------------------------------------|
-| 旭川機場 → 富良野        | Furano Bus     | 約 1h 1m   | ¥600–850       | 每 4 小時一班                          |
-| 旭川機場 → 富良野        | 專車（預約）   | 約 1h      | 約 ¥3,500      | 冬季季節營運，需提前預約              |
-| 旭川站 → 富良野站        | JR 富良野線    | 約 1h 25m  | ¥1,100–1,600   | 每 2 小時一班，先轉乘至旭川站         |
-| 富良野 → 札幌            | JR 特急直達    | 約 1h 58m  | 約 ¥4,600      | 直達特急，Trip.com 可查票時段         |
+- **雪場**：Furano Zone（營運至 4 月上旬），Kitanomine Zone（3 月下旬結束）  
+- **雪票**：  
+  - 1 日 ¥8,000  
+  - 3 日 ¥21,500  
+- **租借裝備**：¥5,000–6,000／日（全套）  
+- **住宿建議**：  
+  - New Furano Prince Hotel（滑雪 in/out）  
+  - Nozo Hotel（設施新、附溫泉與健身房）  
+  - 富良野站周邊商務旅館（便宜、方便覓食）  
+
+---
+
+## 🍲 餐廳推薦
+
+### 札幌
+- **湯咖哩 GARAKU**（不收訂位，建議 16:30–17:30 或 20:30 後去）  
+- **炭火兜 成吉思汗**（特色吊掛熟成羊肉，需預約）  
+- **成吉思汗 だるま**（經典名店，分店多，排隊快）  
+
+### 小樽
+- 三角市場海鮮丼  
+- 北一硝子咖啡廳（玻璃製品＋甜點）  
+
+### 富良野
+- Downhill 山腳小木屋餐廳  
+- Furano Cheese Factory（乳製品伴手禮）  
+
+---
+
+## 🧾 預算估算（每人，未含機票）
+
+- **雪票 + 裝備**：NT$12,000 左右  
+- **住宿**：富良野 ¥10,000/晚、札幌 ¥8,000/晚，合計 NT$35,000 左右  
+- **交通**：全程 JR + 巴士 NT$6,000 左右  
+- **餐飲雜費**：NT$7,000 左右  
+- **總計**：NT$60,000–65,000（視住宿選擇而定）
