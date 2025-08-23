@@ -29,7 +29,7 @@
 
 | 飯店名稱 | 地點 | 價格 | 備註 |
 |--------|------|-----|------|
-| 新富良野王子飯店 | 富良野雪場內 | 136,530 (每人15170) | **ski in/ski out** <img src="image-3.png" height="200px" width="400px" >|
+| 新富良野王子飯店 | 富良野雪場內 | 136,530 (每人15170) | **ski in/ski out** <img src="image-3.png" height="200px" width="120px" >|
 | airbnb Shelbourne Furano【 8分鐘到滑雪纜車/129㎡】| 富良野市區 | 43883(每人~4876) | 五間房 **需租車**  <img src="image-4.png" height="200px" width="400px" >|
 
 ---
