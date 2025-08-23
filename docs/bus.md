@@ -1,38 +1,77 @@
-## 旭川機場（AKJ）⇄ 富良野：交通詳情
+# 2026 北海道行程交通資訊
 
-###  巴士方式（Furano Bus）
-- **單程時間**：約 **1 小時 1 分鐘**  
-- **票價**：約 **¥600–850**  
-- **頻率**：每 **4 小時一班**，每日運行  [Rome2Rio](https://www.rome2rio.com/s/Asahikawa-Airport/Furano?utm_source=chatgpt.com)  
-- **上車地點**：旭川機場巴士站，在出口附近即可找到  [hokkaido-airports.com](https://www.hokkaido-airports.com/en/asahikawa/access/bus/?utm_source=chatgpt.com)  
-- **備註**：拉文德巴士（Lavender Bus）在富良野市區也非常方便，無需訂位，票可現場購買  [ふらの観光協会公式サイト FURANO index](https://www.furanotourism.com/en/spot/news_D.php?id=2023&utm_source=chatgpt.com)  
+## 🛬 Day 1（3/28 六）
+**台北 → 旭川**
+- 搭乘工具：Tigerair Taiwan 直飛
+- 時間：約 4 小時
+- 起點：台北桃園國際機場 (TPE)
+- 目的地：旭川機場 (AKJ)
 
-###  預約滑雪專車（Access Network）
-- **單程時間**：約 **1 小時**  
-- **票價**：約 **¥3,500**（需預約）  
-- **服務期間**：每年開放時間不同，2024–25 冬季為 12/1–3/30，2025–26 預計於 10 月公告  [Rome2Rio](https://www.rome2rio.com/s/Asahikawa-Airport/Furano?utm_source=chatgpt.com)  
-
-###  JR 富良野線（旭川站 → 富良野站）
-- **車程**：約 **1 小時 25 分鐘**  
-- **票價**：約 **¥1,100–1,600**  
-- **班次**：每 **2 小時一班**，每日運行  [sapporostation.com](https://www.sapporostation.com/limited-express-lilac-kamui-sapporo-asahikawa/?utm_source=chatgpt.com) [ふらの観光協会公式サイト FURANO index](https://www.furanotourism.com/en/spot/news_D.php?id=2023&utm_source=chatgpt.com)  
-- **備註**：換乘需要先搭巴士或計程車至旭川站（約 40 分鐘，¥2,500），車站有「Midori no Madoguchi」服務櫃台購票  [en.wikipedia.org](https://en.wikipedia.org/wiki/Furano_Station?utm_source=chatgpt.com)  
+**旭川機場 → 富良野**
+- 搭乘工具：巴士（Furano Bus 或預約專車）
+- 時間：約 1 小時
+- 起點：旭川機場
+- 目的地：富良野站／富良野市區飯店
 
 ---
 
-## JR 富良野 → 札幌：直達火車資訊
-- **旅程時間**：約 **1 小時 58 分鐘**（直達）  
-- **票價**：約 **¥4,600（約 USD 36.6）**  
-- **列車資訊**：可使用 Trip.com 查票與時段，為直通特急列車  [Trip.com](https://us.trip.com/trains/japan/route/furano-to-sapporo-hokkaido/?utm_source=chatgpt.com)  
+## 🎿 Day 5（4/1 三）
+**富良野 → 札幌**
+- 搭乘工具：JR 富良野線 + 特急「ライラック」
+- 時間：約 2.5–3 小時
+- 起點：富良野站
+- 目的地：札幌站
 
 ---
 
-##  整合交通表格（GitHub Pages 用）
+## 🏙️ Day 6（4/2 四）
+**札幌市區內交通**
+- 搭乘工具：札幌地鐵／步行
+- 時間：依行程 10–30 分鐘
+- 起點：住宿飯店（札幌市區）
+- 目的地：大通公園、狸小路、薄野等
 
-```markdown
-| 起訖區段                 | 方式          | 時間       | 費用（單程）   | 頻率／備註                             |
-|--------------------------|---------------|------------|----------------|----------------------------------------|
-| 旭川機場 → 富良野        | Furano Bus     | 約 1h 1m   | ¥600–850       | 每 4 小時一班                          |
-| 旭川機場 → 富良野        | 專車（預約）   | 約 1h      | 約 ¥3,500      | 冬季季節營運，需提前預約              |
-| 旭川站 → 富良野站        | JR 富良野線    | 約 1h 25m  | ¥1,100–1,600   | 每 2 小時一班，先轉乘至旭川站         |
-| 富良野 → 札幌            | JR 特急直達    | 約 1h 58m  | 約 ¥4,600      | 直達特急，Trip.com 可查票時段         |
+---
+
+## 🥃 Day 7（4/3 五）
+**札幌 → 余市**
+- 搭乘工具：JR 函館本線
+- 時間：約 1 小時 40 分鐘（部分車需小樽轉乘）
+- 起點：札幌站
+- 目的地：余市站（步行至 Nikka 蒸餾所）
+
+**余市 → 小樽**
+- 搭乘工具：JR 普通列車
+- 時間：約 25 分鐘
+- 起點：余市站
+- 目的地：小樽站
+
+**小樽 → 札幌**
+- 搭乘工具：JR 快速
+- 時間：約 35 分鐘
+- 起點：小樽站
+- 目的地：札幌站
+
+---
+
+## 🛍️ Day 8（4/4 六）
+**札幌市區內交通**
+- 搭乘工具：地鐵 + 公車／步行
+- 時間：單程 15–30 分鐘
+- 起點：住宿飯店（札幌市區）
+- 目的地：圓山公園、北海道神宮、藻岩山展望台
+
+---
+
+## 🛫 Day 9（4/5 日）
+**札幌 → 新千歲機場**
+- 搭乘工具：JR 快速エアポート
+- 時間：約 40 分鐘
+- 起點：札幌站
+- 目的地：新千歲機場 (CTS)
+
+**新千歲機場 → 台北**
+- 搭乘工具：中華航空 / 長榮航空 / 星宇 / Scoot （依預訂）
+- 時間：約 4 小時
+- 起點：新千歲機場
+- 目的地：台北（TPE）
